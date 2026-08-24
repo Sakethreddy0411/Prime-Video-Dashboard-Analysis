@@ -20,14 +20,14 @@ It focuses on analyzing Prime Video movies and TV shows data to uncover insights
 
 📊 Features
 
-* 📈 Year-wise content trend analysis  
-* 🌍 Country-wise distribution of shows  
-* 🎭 Genre-wise content analysis  
-* ⭐ Rating distribution visualization  
-* 🗣 Language distribution (Donut Chart)  
-* 💳 Subscription type breakdown  
-* 🎛 Interactive slicers (Country, Year, Genre, Subscription Type)  
-* 📊 KPI Cards for quick insights  
+*  Year-wise content trend analysis  
+*  Country-wise distribution of shows  
+*  Genre-wise content analysis  
+*  Rating distribution visualization  
+*  Language distribution (Donut Chart)  
+*  Subscription type breakdown  
+*  Interactive slicers (Country, Year, Genre, Subscription Type)  
+*  KPI Cards for quick insights  
 
 ---
 
@@ -67,11 +67,11 @@ The dataset contains Prime Video content details such as:
 
 📈 Key Insights
 
-* 📊 Content significantly increased after 2000  
-* 🎭 Drama and Sci-Fi are among the most popular genres  
-* 🌍 Certain countries contribute more content  
-* 🗣 Multiple languages are supported, increasing reach  
-* 💳 Subscription types are evenly distributed  
+*  Content significantly increased after 2000  
+*  Drama and Sci-Fi are among the most popular genres  
+*  Certain countries contribute more content  
+*  Multiple languages are supported, increasing reach  
+*  Subscription types are evenly distributed  
 
 ---
 
