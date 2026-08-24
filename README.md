@@ -1,13 +1,13 @@
-🎬 Prime Video Dashboard Analysis (Power BI)
+ Prime Video Dashboard Analysis (Power BI)
 
-📌 Project Overview
+ Project Overview
 
 The **Prime Video Dashboard Analysis** project is a data visualization and analytics project built using Power BI.  
 It focuses on analyzing Prime Video movies and TV shows data to uncover insights related to genres, ratings, countries, languages, and subscription types through an interactive dashboard.
 
 ---
 
-🎯 Objectives
+ Objectives
 
 * Analyze Prime Video content distribution  
 * Identify trends based on release years  
@@ -18,7 +18,7 @@ It focuses on analyzing Prime Video movies and TV shows data to uncover insights
 
 ---
 
-📊 Features
+ Features
 
 *  Year-wise content trend analysis  
 *  Country-wise distribution of shows  
@@ -31,7 +31,7 @@ It focuses on analyzing Prime Video movies and TV shows data to uncover insights
 
 ---
 
-🛠 Tech Stack
+ Tech Stack
 
 * **Tool:** Power BI  
 * **Data Processing:** Power Query  
@@ -39,7 +39,7 @@ It focuses on analyzing Prime Video movies and TV shows data to uncover insights
 
 ---
 
-📂 Dataset
+ Dataset
 
 The dataset contains Prime Video content details such as:
 
@@ -54,7 +54,7 @@ The dataset contains Prime Video content details such as:
 
 ---
 
-⚙️ Workflow
+ Workflow
 
 1. **Data Loading** – Imported dataset into Power BI  
 2. **Data Cleaning** – Removed null values and formatted columns  
@@ -65,7 +65,7 @@ The dataset contains Prime Video content details such as:
 
 ---
 
-📈 Key Insights
+ Key Insights
 
 *  Content significantly increased after 2000  
 *  Drama and Sci-Fi are among the most popular genres  
@@ -75,7 +75,7 @@ The dataset contains Prime Video content details such as:
 
 ---
 
-🚀 How to Use
+ How to Use
 
 1. Download the `.pbix` file  
 2. Open in Power BI Desktop  
@@ -83,7 +83,7 @@ The dataset contains Prime Video content details such as:
 
 ---
 
-📌 Future Improvements
+ Future Improvements
 
 * Add real-time data updates  
 * Include more detailed filtering options  
@@ -92,17 +92,17 @@ The dataset contains Prime Video content details such as:
 
 ---
 
-🤝 Contributing
+ Contributing
 
 Contributions are welcome! Feel free to fork and improve the project.
 
 ---
 
-📬 Contact
+ Contact
 
 * LinkedIn: [https://www.linkedin.com/posts/saketh-reddy-ambati-380788321_powerbi-dataanalytics-businessintelligence-share-7450591252791697409-07Qi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFzZBABAb75eiZ4Qt9ai09E7qtJqwi1jIY]  
 * Email: [sakethreddyambati04@gmail.com]  
 
 ---
 
-⭐ If you like this project, give it a star!
+
